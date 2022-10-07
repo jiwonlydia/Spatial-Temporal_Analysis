@@ -1,0 +1,8 @@
+*.csv
+model_saved
+output
+model_saved_1
+data
+__pycache__
+sdot_data
+99_etc

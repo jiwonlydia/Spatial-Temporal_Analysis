@@ -1,0 +1,6 @@
+*.csv
+data
+output
+model_saved
+99_etc
+
